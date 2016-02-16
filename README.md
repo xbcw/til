@@ -10,6 +10,8 @@
 * [Unity](#unity)
 
 ---
+### Linux
+- [List Dynamic Dependencies](linux/ldd.md)
 
 ### Ruby
 
