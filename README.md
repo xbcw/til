@@ -6,12 +6,14 @@
 
 ### Categories
 
+* [Linux](#linux)
 * [Ruby](#ruby)
 * [Unity](#unity)
 
 ---
 ### Linux
 - [List Dynamic Dependencies](linux/ldd.md)
+- [Fun With Sha-Bang](linux/fun-with-shabang.md)
 
 ### Ruby
 
