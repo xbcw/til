@@ -1,0 +1,1 @@
+The best way to add a user account with no login is `useradd -r some_user`.  This creates an account with no home directory, no password, and no ability to log in.

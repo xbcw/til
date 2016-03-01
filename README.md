@@ -14,6 +14,7 @@
 ### Linux
 - [List Dynamic Dependencies](linux/ldd.md)
 - [Fun With Sha-Bang](linux/fun-with-shabang.md)
+- [No Login User](linux/add-user-with-no-login.md)
 
 ### Ruby
 
